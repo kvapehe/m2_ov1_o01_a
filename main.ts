@@ -1,3 +1,8 @@
+/**
+ * Oppg 1 inneholder
+ * 
+ * a), b) og c) i en oppgave. (hex-fil)
+ */
 input.onButtonPressed(Button.A, function () {
     basic.showIcon(IconNames.Heart)
 })
